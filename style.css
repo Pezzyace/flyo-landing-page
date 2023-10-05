@@ -9,4 +9,6 @@ h2{
   color: #ff4242; /*- Light Red (error):*/
   color: #ffffff; /*- White:*/
 
+  background: url(images/bg-curvy-desktop.svg);
+
 }
